@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Controller</string>
+    <string name="button_up">up</string>
+    <string name="button_down">down</string>
+    <string name="button_left">left</string>
+    <string name="button_right">right</string>
+
+</resources>
